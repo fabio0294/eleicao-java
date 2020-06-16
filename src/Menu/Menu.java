@@ -124,7 +124,7 @@ public class Menu {
 	    				break;
 
 	    			default: 
-	    				System.out.println("Opção Invalida!!!");
+	    				System.out.println("Opção Invalida!");
 	    				break;
     			}
     		}
